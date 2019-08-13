@@ -14,7 +14,7 @@ Tenemos un grupo de Telegram donde compartimos acerca de nuestras experiencias c
 
 [Ingresa Aquí](https://t.me/phpperu)
 
-## Slack
+## ~~Slack~~ (Será eliminado el 15/09/2020) a menos que haya alguna razón por la cual no debamos hacerlo 
 
 [Únete a Slack!](https://join.slack.com/t/fragote/shared_invite/enQtNjI0MzQzMjExODkxLWY1MWMyNTFlMDJjYjM0M2M1MTdkMDM3NzkzNTIxNjhmZGVhNGI2YmRiYzQ4M2ZlM2QzODU1NzA3OWUxZGIyNjY)
 
