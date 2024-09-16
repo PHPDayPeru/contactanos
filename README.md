@@ -14,6 +14,12 @@ Tenemos un grupo de Telegram donde compartimos acerca de nuestras experiencias c
 
 [Ingresa Aquí](https://t.me/phpperu)
 
+## Grupo de Whatsapp
+
+Además tenemos un grupo de Whatsapp.
+
+[Ingresa Aquí](https://chat.whatsapp.com/EQ4z0cLi7ECLLslNM8INxN)
+
 ## Website
 
 [www.phpdayperu.com](https://www.phpdayperu.com)
